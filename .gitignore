@@ -1,7 +1,0 @@
-#屏蔽scr文件夹
-scr/
-
-
-#屏蔽python 的缓存文件
-.py[cod]
-
